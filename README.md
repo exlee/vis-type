@@ -1,10 +1,9 @@
 Type Timer
 ==========
 
-# About
+## About
 
-This little piece of software is for visualisation of type pattern for word or phrase.
-You can see the demo [here][demourl].
+This little piece of software is for visualisation of type pattern for word or phrase.  You can see the demo [here][demourl].
 
 Libraries used:
 
@@ -15,12 +14,14 @@ Libraries used:
 - [Stylus][stylus]
 - [Twitter Bootstrap][twitterb]
 
-# Assumptions
+Code quality
+:Proof of Concept - experimental coding (i.e. no insight before hacking in), lack of comments, duplicated code etc. :-)
 
-Simple security concept based on the idea that every person is a little bit different.
-I assumed that every person has their own typing pattern, and so, using [3 Sigma Rule][3sig] I wanted to monitor such entries and timed key presses and pauses between them and match them against average pattern.
+## Assumptions
 
-# Result
+Simple security concept based on the idea that every person is a little bit different. I assumed that every person has their own typing pattern, and so, using [3 Sigma Rule][3sig] I wanted to monitor such entries and timed key presses and pauses between them and match them against average pattern.
+
+## Result
 
 Solution is a bit unstable. I got into event hell and decided to stop after doing the visual part, unfortunately it tends to break when incomplete data is posted.
 
