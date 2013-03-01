@@ -26,7 +26,7 @@ Simple security concept based on the idea that every person is a little bit diff
 Solution is a bit unstable. I got into event hell and decided to stop after doing the visual part, unfortunately it tends to break when incomplete data is posted.
 
 
-[demourl]: http://NA
+[demourl]: http://http://exlee.github.com/vis-type/
 [brunch]: http://brunch.io
 [angular]: http://angularjs.org
 [3sig]: http://en.wikipedia.org/wiki/68-95-99.7_rule
