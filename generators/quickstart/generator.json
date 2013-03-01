@@ -1,7 +1,0 @@
-{
-    "files": [],
-    "dependencies": [
-        { "name": "index_default", "params": "{{name}}" },
-        { "name": "coffee_init", "params": "{{name}}" }
-    ]
-}

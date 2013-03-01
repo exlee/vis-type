@@ -1,7 +1,0 @@
-{
-    "files": [{
-        "from": "angular_directive.coffee.hbs",
-        "to": "app/scripts/directives/{{name}}.coffee"
-    }],
-    "dependencies": []
-}

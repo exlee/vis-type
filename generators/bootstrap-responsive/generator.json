@@ -1,9 +1,0 @@
-{
-    "files": [{
-        "from": "bootstrap.less.hbs",
-        "to": "vendor/styles/bootstrap-responsive.less"
-    }],
-    "dependencies": [
-        { "name": "bootstrap", "params": "{{name}}" }
-    ]
-}
